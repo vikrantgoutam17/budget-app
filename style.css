@@ -21,6 +21,7 @@ body {
     position: relative;
     height: 100vh;
     font-weight: 400;
+    background-image: linear-gradient(to right,rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5));
 }
 
 .right { float: right; }
@@ -117,6 +118,8 @@ body {
     padding: 14px;
     border-bottom: 1px solid #e7e7e7;
     background-color: #f7f7f7;
+    background-image: linear-gradient(to top,rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5));
+
 }
 
 .add__container {
